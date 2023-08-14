@@ -1,7 +1,7 @@
 /**
  * 
  * @autor: Diego Oswaldo Flores Rivas
- * @version: 1.0
+ * @version: 13/08/2023B
  * 
  * La siguiente clase tiene como objetivo modelar los ticket, siendo capaz de generarlos y a su vez de validarlos
  * El valor de los atributos no puede ser alterado de alguna forma a menos que se genere otro ticket
