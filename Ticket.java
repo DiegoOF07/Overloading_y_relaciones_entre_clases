@@ -20,7 +20,7 @@ public class Ticket {
     }
 
     /*Este metodo se encarga de generar los numeros aleatorios correspondientes al ticket */
-    public void generarTicket(){ //Cambio en el nombre y retorno del metodo, cambiar analisis y diseño
+    public void generarTicket(){
         this.ticket = (int)(Math.random()*15000);
         this.verificadorA = (int)(Math.random()*15000);
         this.verificadorB = (int)(Math.random()*15000);
